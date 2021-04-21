@@ -1,0 +1,3 @@
+Je pense qu'on pourrait plus performer le code en mettrant en place un tableau de correspondance pour les controlleurs et leurs methodes
+genre un trablau qui contiendra le vrai nom des controlleurs et leur correspondance qui s'affichera à l'utilisateur dans la barre d'adresse
+De meme que le vrai nom des methodes des controlleurs ainsi que leur correspondance dans la barre d'adresse du client

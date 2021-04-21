@@ -1,0 +1,27 @@
+.container {
+  text-align: center;
+  margin-top: 10em;
+}
+
+.container h4 {
+  margin-bottom: 40px;
+}
+
+.container .btn {
+  color: rgba(63, 178, 255, 0.99);
+  text-decoration: none;
+  padding: 1em;
+  margin-top: 5em;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.container .btn:hover {
+  color: black;
+  background-color: rgba(63, 178, 255, 0.4);
+}
+
+.sample-example-link {
+  display: block;
+  margin-top: 5em;
+}
